@@ -1,2 +1,7 @@
 # Team Eerste Hulp bij Hackathons
-# Herko te Paske & Willy Bakker
+Sterenborg: LoRaWAN for monitoring potato diseases
+
+# Members
+Herko te Paske 
+
+[Willy Bakker](https://twitter.com/FrieseWoudloper)
